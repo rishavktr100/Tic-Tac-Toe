@@ -1,0 +1,18 @@
+.test{
+    margin-left: 2.5rem;
+  }
+  .message{
+    margin-right: 1.2rem;
+  }.box{
+    height: 50px;
+    width: 50px;
+  }
+  #footer {
+    background: black;
+    color: white;
+    padding: 9px 20px;
+}
+
+.center {
+    text-align: center;
+}
